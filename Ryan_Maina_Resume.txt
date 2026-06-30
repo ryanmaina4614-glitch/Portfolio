@@ -1,0 +1,99 @@
+RYAN MAINA
+Nairobi, Kenya | +254 745 589 883 & +254716256347 | ryanmaina4614@gmail.com | linkedin.com/in/ryan-maina
+
+PROFILE SUMMARY
+Entry-level Cloud & DevOps practitioner passionate about designing, automating, and securing cloud-based systems on AWS. Skilled in Infrastructure as Code (Terraform), CI/CD pipelines (GitHub Actions, Jenkins), and containerization with Docker and Kubernetes. Experienced in deploying scalable web apps and serverless workloads. Driven by curiosity, continuous learning, and building efficient systems that simplify operations and improve reliability.
+
+SKILLS
+
+Cloud & Infrastructure
+AWS (EC2, S3, RDS, DynamoDB, Lambda, Route 53, CloudFront, IAM, VPC, CloudFormation)
+Terraform
+
+CI/CD & Automation
+GitHub Actions
+Jenkins
+AWS CodePipeline
+Python
+Bash
+
+Containerization & Web Development
+Docker
+Kubernetes
+React
+Next.js
+Laravel
+HTML/CSS
+
+Security & Monitoring
+IAM
+KMS
+CloudWatch
+CloudTrail
+WAF
+
+Soft Skills
+Collaboration • Problem-Solving • Adaptability • Time Management • Continuous Learning
+
+TECHNICAL PROJECTS
+
+AWS Secure File Upload System
+Developed a secure file upload workflow using S3 Multipart Upload, IAM policies, and KMS encryption.
+Improved large file handling efficiency with parallel processing and CloudWatch monitoring.
+Technologies: AWS S3, IAM, KMS, CloudWatch
+
+Terraform-Based AWS Language Translation Pipeline
+Built a serverless text translation system using AWS Lambda, API Gateway, and AWS Translate.
+Automated translation tasks and enforced secure access control through IAM.
+Technologies: Terraform, Lambda, API Gateway, AWS Translate
+
+CI/CD & Containerized Full-Stack Application
+Automated builds and deployments using GitHub Actions and Jenkins, optimizing delivery pipelines.
+Deployed containerized Next.js and Laravel applications using Docker Compose for scalability.
+Technologies: GitHub Actions, Jenkins, Docker, Next.js, Laravel
+
+Scalable E-Commerce Platform on AWS
+Designed a serverless architecture using Lambda, API Gateway, DynamoDB, and S3.
+Configured CloudFront CDN for global distribution and low-latency access.
+Technologies: AWS Lambda, API Gateway, DynamoDB, S3, CloudFront
+
+Personal Portfolio Hosting & CI/CD Pipeline
+Developed a personal React portfolio site, integrated with GitHub Actions for automated deployment.
+Utilized AWS Amplify and CloudFront for performance and availability.
+Technologies: React, GitHub Actions, AWS Amplify, CloudFront
+
+PROFESSIONAL EXPERIENCE
+
+Web & Cloud Developer — Independent Projects
+June 2021 – Present
+Designed and deployed cloud-hosted web applications using AWS Amplify & S3 with CloudFront CDN, improving global performance.
+Automated serverless workflows with AWS Lambda and Python, streamlining routine tasks.
+Implemented Infrastructure as Code with Terraform to streamline and standardize AWS resource setup.
+
+Volunteer Computer Tutor — Empower Hope Kenya, Githogoro
+September 2025
+Taught students computer literacy and digital skills to promote technology awareness in underprivileged communities.
+Encouraged curiosity and problem-solving by introducing basic programming concepts.
+
+CERTIFICATIONS
+
+AWS Certified Cloud Practitioner
+September 2025
+
+Python Fundamentals – Sololearn
+
+Python Intermediate – Sololearn
+
+EDUCATION
+
+AWS Cloud Computing Training
+April 2025 - Present
+
+Oloolaiser High School — Certificate of Secondary Education
+August 2020 – November 2024
+
+LANGUAGES
+
+English (Fluent)
+Swahili (Fluent)
+Japanese (Beginner)
